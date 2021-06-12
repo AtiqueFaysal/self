@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+}
+
+.orange{color:rgba(128, 0, 128, 0.959)}
+
+.half{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding top:2%;
+   
+}
+
+img{width: 100%;}
+
+#padding{padding-top:100px;}
+#p{padding-top:100px;}
+
+section{height:600px}
+#middle{height:700px}
+
+.top{
+    background-image:url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, blue, cyan);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+
+}
+
+#middle{background-image:url(images/biography-bg.png);
+        background-size: cover;}
+
+#works{text-align:center;
+    color:blue;
+    padding-top: 100px;}
+
+.pic{
+    float:left;
+    width: 25%;
+    padding:4%;
+
+}
+
+.bottom{
+    background-image: url(images/latest-work-bg.png);
+    background-size: cover;
+}
+
+.button1{
+   
+    background-image: linear-gradient(45deg, blue, cyan);
+    
+   font-size:30px; text-align:center;
+   padding: 10px, 30px;
+    border-radius: 5px;
+    color: white;
+    
+}
+
+#a{text-align: center;}
+#b{text-align: center;}
+#c{text-align: center;}
+#d{align-items:center;}
+
+span{font-size:50px}
+
+.footer{background-image: url(images/footer-bg.png);
+        background-size: cover;
+        height: 500px;
+    margin-top: 50px;}
+
+footer{text-align:center}
